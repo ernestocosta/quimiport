@@ -408,8 +408,4 @@ Resumo abaixo. Os detalhes estão em [`docs/decisoes-arquiteturais.md`](docs/dec
 
 ## Integrantes
 
-| Nome | RM | GitHub |
-|---|---|---|
-| Ernesto Brito Costa | _preencher_ | [@ernestocosta](https://github.com/ernestocosta) |
-
-Projeto desenvolvido individualmente.
+Ernesto Brito Costa — projeto desenvolvido individualmente.
